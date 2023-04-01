@@ -10,3 +10,7 @@ Linear Algebra: https://colab.research.google.com/drive/1dpuWWe7zf7ce9GsczrUUQQ-
 
 
 ML Tutorial Links - Avinash: https://docs.google.com/document/d/1lNYJ8X8qUDWepAD4Uel04eeIaIrRntat6_KolQT5qXo/edit?usp=sharing
+
+ML Colab: https://colab.research.google.com/drive/1B8Zwn4wf431Mkqq9iWJ9j0pSiDe3PMQt?usp=sharing
+
+
